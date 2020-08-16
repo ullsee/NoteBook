@@ -7,4 +7,4 @@ Created with React.Js
 * Note
 * Footer
 
-![Image](images\img.png)
+![Image](./images/img.png)
