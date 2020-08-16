@@ -1,6 +1,5 @@
-[NoteBook](http://bit.ly/note12book)
 
-# NoteBook
+# [NoteBook](http://bit.ly/note12book)
 Created with React.Js
 
 ## Components
