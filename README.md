@@ -18,4 +18,4 @@ Created with React.Js
 ## Delete Note
 * Callback from the Note component to trigger a delete function
 * Use filter function to filter out the item that needs deletion
-* Pass an id over to the Note Component, pass it back to the App when deleting.
+* Pass an id over to the Note Component, pass it back to the App when deleting
