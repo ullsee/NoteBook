@@ -6,3 +6,5 @@ Created with React.Js
 * Header
 * Note
 * Footer
+
+![Image](images\img.png)
